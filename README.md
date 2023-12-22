@@ -15,6 +15,10 @@ The application allows users, mainly passengers, to register, book flights, view
 Choose "Login" from the main menu.
 Enter your username and password.
 
+* **Forget Password**
+If you forget your password,
+you can see your password by entering your username.
+
 * **Passenger Operations:**
 After logging in as a passenger, you can register, enter flight details, book flights, view booked flights, and cancel booked flights.
 
