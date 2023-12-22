@@ -11,20 +11,20 @@ The application allows users, mainly passengers, to register, book flights, view
 
 ## **Usage**
 
-**Login:**
+* **Login:**
 Choose "Login" from the main menu.
 Enter your username and password.
 
-**Passenger Operations:**
+* **Passenger Operations:**
 After logging in as a passenger, you can register, enter flight details, book flights, view booked flights, and cancel booked flights.
 
-**Admin:**
+* **Admin:**
 The application currently does not support admin functionality.
 
-**Sign Up:**
+* **Sign Up:**
 Choose "Sign up" from the main menu to create a new user account.
 
-**Details:**
+* **Details:**
 Choose "Details" from the main menu to view information about the PIA Airline application and its developers.
 
 ## Contributing
@@ -33,5 +33,3 @@ Feel free to contribute to the improvement of this Airport Reservation System ap
 ## Author
 Muhammad Azeem
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
